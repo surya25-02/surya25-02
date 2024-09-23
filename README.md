@@ -12,12 +12,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=surya25-02&show_icons=true&theme=radical" alt="Surya's GitHub Stats" style="height: 200px; width: auto;"/>
-
----
-
 ## 💼 Skills
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
